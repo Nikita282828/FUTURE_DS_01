@@ -61,12 +61,5 @@ Here’s a sneak peek of the dashboard you’ll build 👇
 
 🔹 Some product lines show negative profit margins → opportunity for strategy improvement
 
-🌟 Why This Project Matters
-
-This project mirrors real business analytics challenges. By completing it, you’ll strengthen your data analytics portfolio and demonstrate your ability to:
-
-✔️ Transform raw data → clear insights
-✔️ Create dashboards for business stakeholders
-✔️ Tell stories with data that drive decisions
 
 ✨ If you find this project helpful, don’t forget to star ⭐ this repo and share your feedback!# FUTURE_DS_01
